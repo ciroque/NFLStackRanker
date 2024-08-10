@@ -1,6 +1,6 @@
 # NFLStackRanker
 
-A simple Go program that allows you to stack rank NFL teams by doing simple pair-wise comparisons.
+A Go program that allows you to stack rank NFL teams by doing simple pair-wise comparisons.
 
 ## Usage
 
